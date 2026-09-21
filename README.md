@@ -1,44 +1,16 @@
-# Pursuing Stacks — Simplified Chinese edition
+# 撤回声明：v1.0.0 译文不完整
 
-This repository is the public source home for the direct Simplified Chinese
-main-text edition of Alexander Grothendieck's *Pursuing Stacks, First Episode:
-The Modelizing Story*.
+> **请勿将 v1.0.0 作为完整的简体中文译本使用或引用。**
 
-The edition covers all 141 main-text units: sections 1–140, including the
-inserted section 16bis. The source preface and all 18 appendices are retained
-in English and are identified as such in the edition-scope notice.
+本仓库此前错误地把 v1.0.0 称为完整译本。实际发布文件只翻译了编号正文单元；两篇序言、附录《致 Larry Breen 的三封信》及其 18 个分节、附录内的注释和编辑文字，以及若干章标题仍为英文或法文。因此，该版本不符合完整翻译的基本要求，现已从译本用途撤回。
 
-## Read and download
+原文件和 `v1.0.0` 发布资产继续公开，仅用于审计并保持引用与 DOI 连续性。完整修订版将继续使用本仓库和现有 Zenodo 概念 DOI；在全部源文本通过翻译覆盖检查以前，不会再宣称“完整”。
 
-- [Zenodo record and DOI](https://doi.org/10.5281/zenodo.22870233)
-- [GitHub release](https://github.com/KokunoYumeto/pursuing-stacks-zh-hans-cn/releases/tag/v1.0.0)
+## 相关记录
 
-The release inventory is intentionally ordered:
+- [本版 Zenodo 记录](https://doi.org/10.5281/zenodo.22870233)
+- [日语版（同样已撤回 v1.0.0）](https://doi.org/10.5281/zenodo.22870235)
+- [韩语版（同样已撤回 v1.0.0）](https://doi.org/10.5281/zenodo.22870237)
+- [英文原始权威 arXiv:2111.01000v2](https://arxiv.org/abs/2111.01000)
 
-1. `01_pursuing-stacks.zh-Hans-CN.pdf` — cumulative reader PDF.
-2. `02_pursuing-stacks.zh-Hans-CN.cumulative.tex` — directly downloadable,
-   complete cumulative LaTeX.
-3. `03_pursuing-stacks.zh-Hans-CN.source.zip` — complete editable source,
-   including fonts, figures, bibliography, build instructions, and build
-   script.
-
-Exact SHA-256 checksums are recorded in `SHA256SUMS`.
-
-## Companion editions
-
-- Japanese: [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ja) · [Zenodo](https://doi.org/10.5281/zenodo.22870235)
-- Korean: [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ko-kr) · [Zenodo](https://doi.org/10.5281/zenodo.22870237)
-
-## Authority and editorial boundary
-
-The immutable source authority is arXiv:2111.01000v2. The translation preserves
-mathematical notation, labels, references, notes, page markers, and claim
-status. Suspected source issues are recorded rather than silently emended.
-This is not an official Stacks Project edition and makes no claim of approval
-by the Stacks Project.
-
-The PDF, direct cumulative LaTeX, and source archive passed deterministic
-rebuild, exact 423-binding projection, font/extraction, complete-page render,
-representative visual, and source-archive checks.
-
-Released under CC0 1.0 Universal, without warranty.
+许可证：CC0 1.0 Universal；不提供任何担保。
