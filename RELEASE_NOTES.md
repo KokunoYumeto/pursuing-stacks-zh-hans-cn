@@ -18,5 +18,9 @@ v1.1.0 的实质性修订如下：
 本译本的翻译与校订由 OpenAI Codex — GPT-5.6 Sol（Ultra 推理强度）完成；
 尚未经人类专家审校。
 
-许可：CC0 1.0 Universal；不提供任何担保。
+其他完整译本：
 
+- [日语版 Zenodo 概念 DOI](https://doi.org/10.5281/zenodo.22870234) · [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ja)
+- [韩语版 Zenodo 概念 DOI](https://doi.org/10.5281/zenodo.22870236) · [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ko-kr)
+
+许可：CC0 1.0 Universal；不提供任何担保。
