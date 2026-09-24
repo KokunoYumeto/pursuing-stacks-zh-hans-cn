@@ -43,8 +43,7 @@ LaTeX 与模块化源代码产生的 PDF 字节完全一致。
 
 ## 其他语言版本
 
-- 日语版（正在修订）：[GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ja) · [Zenodo](https://doi.org/10.5281/zenodo.22870235)
-- 韩语版（正在修订）：[GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ko-kr) · [Zenodo](https://doi.org/10.5281/zenodo.22870237)
+- 日语完整译本：[GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ja) · [Zenodo 概念 DOI](https://doi.org/10.5281/zenodo.22870234)
+- 韩语完整译本：[GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ko-kr) · [Zenodo 概念 DOI](https://doi.org/10.5281/zenodo.22870236)
 
 许可：CC0 1.0 Universal；不提供任何担保。
-
